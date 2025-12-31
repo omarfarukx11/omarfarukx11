@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **MERN Stack Developer** dedicated to building functional, scalable, and visually stunning web applications. I specialize in creating seamless user experiences with **React** and robust backend systems with **Node.js** and **MongoDB**.
+I’m a passionate MERN Stack Developer focused on building modern, scalable, and user-friendly web applications. I enjoy working across both frontend and backend to create complete solutions. I’m a quick learner, highly motivated, and comfortable working both independently and in team environments.
 
 - 🔭 **Working on:** Tourism Website
 - 🌱 **Learning:** Next.js & Advanced Redux Toolkit
