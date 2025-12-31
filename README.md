@@ -15,11 +15,14 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 
 ---
 
-## 📈 Current Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfarukx11&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=ff0055&icon_color=00d4ff" alt="Omar's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfarukx11&theme=tokyonight&background=0D1117&ring=ff0055&fire=ff0055" alt="Streak Stats" />
-</p>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=omarfarukx11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=omarfarukx11&theme=shadow_blue&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukx11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
