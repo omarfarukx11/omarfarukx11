@@ -54,8 +54,4 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 - **Database:** MongoDB, Firebase Authentication
 - **Tools:** Git, GitHub, VS Code, Postman, Figma
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukx11&layout=compact&theme=tokyonight&bg_color=0D1117" alt="Top Languages" />
-</p>
