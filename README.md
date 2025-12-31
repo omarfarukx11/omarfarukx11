@@ -34,4 +34,4 @@ I am a dedicated MERN Stack Developer with a passion for building functional and
 ## 🌐 Connect with Me
 - 📧 Email: khfarukcht@gmail.com
 - 📞 Phone: 01616264575
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/omar-farukx57)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-farukx57)
