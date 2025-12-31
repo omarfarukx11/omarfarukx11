@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/sdJL0Pz3/your-image-name.jpg" width="100%" alt="Omar Faruk Banner" />
-</p>
+<div align="center">
+  <img src="https://i.ibb.co.com/sdJL0Pz3/your-image-name.jpg" style="width: 100%; max-width: 1000px;" alt="Omar Faruk Banner" />
+</div>
 
 ### 🚀 MERN Stack Developer | Web Developer
 
