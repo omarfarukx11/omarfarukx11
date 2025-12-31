@@ -11,7 +11,7 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 - 🔭 I’m currently working on a **Tourism Website** with full booking functionality.
 - 🌱 I’m currently exploring **Next.js** and **Advanced Redux Toolkit**.
 - ⚡ I love turning complex problems into simple, elegant, and efficient code.
-- 📍 Location: **Dhaka, Bangladesh**
+- 📍 Location: **Chittagong, Bangladesh**
 
 ---
 
