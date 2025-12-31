@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=250&section=header&text=Omar%20Faruk&fontSize=80&fontAlignY=35&animation=twinkling&theme=dark_rainbow" />
+  <img src="https://i.ibb.co.com/whzRcpt3/your-image.png" width="100%" />
 </p>
 
 ### 🚀 MERN Stack Developer | Web Developer
