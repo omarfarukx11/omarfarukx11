@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/whzRcpt3/your-image.png" width="100%" />
+  <img src="https://ibb.co.com/b5x1kKTB/your-image.png" width="100%" />
 </p>
 
 ### 🚀 MERN Stack Developer | Web Developer
