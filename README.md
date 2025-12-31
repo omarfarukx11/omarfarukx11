@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/5WS1n9WD/WhatsApp-Image.jpg" width="200" />
+  <img src="https://ibb.co.com/sdJL0Pz3" width="200" />
 </p>
 
 ### 🚀 MERN Stack Developer | Web Developer
