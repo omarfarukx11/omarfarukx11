@@ -1,7 +1,7 @@
 
 <img width="2000" height="600" alt="Gray Minimalist Web Development Linkedin Banner" src="https://github.com/user-attachments/assets/c13dbc38-b594-4a80-8b4e-e85421548fa4" />
 
-### 🚀Omar Faruk | MERN Stack Developer 
+### Omar Faruk | MERN Stack Developer 
 
 ---
 
