@@ -15,16 +15,7 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 
 ---
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=omarfarukx11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=omarfarukx11&theme=shadow_blue&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukx11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
 
 ## 📫 Reach me out
 <p align="left">
@@ -54,4 +45,13 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 - **Database:** MongoDB, Firebase Authentication
 - **Tools:** Git, GitHub, VS Code, Postman, Figma
 
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=omarfarukx11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=omarfarukx11&theme=shadow_blue&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukx11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
