@@ -27,8 +27,8 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 ## 📫 Reach me out
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-farukx57"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=00d4ff" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=ff0055" /></a>
-<a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=00d4ff" /></a>
+<a href="khfarucht@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=ff0055" /></a>
+
 </p>
 
 - 📞 **Phone:** +8801616264575
