@@ -31,8 +31,8 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=00d4ff" /></a>
 </p>
 
-- 📞 **Phone:** +880 1XXXXXXXXX
-- 📧 **Email:** your-email@gmail.com
+- 📞 **Phone:** +8801616264575
+- 📧 **Email:** khfarukcht@gmail.com
 
 ---
 
