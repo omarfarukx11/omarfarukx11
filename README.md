@@ -8,7 +8,7 @@
 ### 🚀 About Me
 I am a passionate **MERN Stack Developer** dedicated to building functional, scalable, and visually stunning web applications. I specialize in creating seamless user experiences with **React** and robust backend systems with **Node.js** and **MongoDB**.
 
-- 🔭 **Working on:** [Tourism Website](https://your-link.com) (Full Booking Functionality)
+- 🔭 **Working on:** Tourism Website
 - 🌱 **Learning:** Next.js & Advanced Redux Toolkit
 - ⚡ **Philosophy:** Turning complex problems into simple, elegant, and efficient code.
 - 📍 **Location:** Chittagong, Bangladesh
