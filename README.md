@@ -38,7 +38,7 @@ I am a passionate **MERN Stack Developer** dedicated to building functional, sca
 
 ## 💻 Technologies that I know
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,firebase,git,postman,vercel,netlify" />
 </p>
 
 ---
